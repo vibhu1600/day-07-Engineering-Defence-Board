@@ -46,6 +46,23 @@ Use:
 - [Final Defense Dossier Template](./submissions/final-defense-dossier-template.md)
 - [Engineering Judgment Snapshot](./submissions/engineering-judgment-snapshot-template.md)
 
+## Provided To Solve The Case
+
+- Student challenge brief
+- Final Defense Dossier template
+- Engineering Judgment Snapshot template
+- Your Day 1-Day 6 submissions and evidence
+- Live defense board questioning format
+
+## Outcome Artifacts You Get
+
+- Final Defense Dossier
+- Engineering Judgment Snapshot
+- Live Defense Board Viva
+- Capability Scorecard
+- Growth Prescription
+- Final Outcome Tier
+
 ## Final Submission Pack
 
 Submit:
