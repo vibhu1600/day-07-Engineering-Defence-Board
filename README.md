@@ -43,8 +43,11 @@ You are defending actual work from Days 1-6.
 Use:
 
 - [Student Challenge Brief](./docs/student-challenge-brief.md)
-- [Final Defense Dossier Template](./submissions/final-defense-dossier-template.md)
-- [Engineering Judgment Snapshot](./submissions/engineering-judgment-snapshot-template.md)
+- [Final Defense Dossier Template](./final-defense-dossier-template.md)
+- [Engineering Judgment Snapshot](./engineering-judgment-snapshot-template.md)
+- [Capability Scorecard Template](./capability-scorecard-template.md)
+- [Growth Prescription Template](./growth-prescription-template.md)
+- [Final Outcome Tier Record Template](./final-outcome-tier-record-template.md)
 
 ## Provided To Solve The Case
 
@@ -69,7 +72,10 @@ Submit:
 
 1. Final Defense Dossier
 2. Engineering Judgment Snapshot
-3. Live Defense Board Viva
+3. Capability Scorecard
+4. Growth Prescription
+5. Final Outcome Tier Record
+6. Live Defense Board Viva
 
 Optional if founder requests it:
 
